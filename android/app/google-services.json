@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "681229938331",
+    "project_id": "usuarios-fea58",
+    "storage_bucket": "usuarios-fea58.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681229938331:android:3146ea8d838ac192a4a03e",
+        "android_client_info": {
+          "package_name": "com.example.uge"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlAIlVyftIHmyZ7aS4kU2H7w0o2BDz5nk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
